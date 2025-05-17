@@ -40,6 +40,24 @@ Healthy: 14
 M.S.U EEG	99.67
 RepOD EEG	99.97
 
+
+📁 Repository Structure
+1. EEG_scalo_conversion_final.ipynb
+Description: Converts raw EEG signals into scalogram images using continuous wavelet transforms.
+Input: Multichannel EEG recordings.
+Output: Sscalogram images.
+
+2. eeg-5-20-training.ipynb
+Description: Trains classification models using the generated scalogram images.
+Models:
+DenseNet / EfficientNet
+Output: Trained deep learning models and classification results.
+
+3. Schizophrenia_feature_selection.ipynb
+Description: Performs feature selection using the ASBO (Adaptive Swarm-Based Optimization) algorithm.
+
+#
+
 The proposed framework outperformed state-of-the-art methods on both datasets.
 
 ## Collaborator: [Arghyasree Saha](https://github.com/arghyasree-saha)
