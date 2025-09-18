@@ -60,6 +60,8 @@ Description: Performs feature selection using the ASBO (Adaptive Swarm-Based Opt
 
 The proposed framework outperformed state-of-the-art methods on both datasets.
 
-## Collaborator: [Arghyasree Saha](https://github.com/arghyasree-saha)
+### Collaborator: [Arghyasree Saha](https://github.com/arghyasree-saha)
 
-## Supervisor: [Dr. Pawan Kumar Singh](https://scholar.google.co.in/citations?user=LctgJHoAAAAJ&hl=en)
+### Supervisor: [Dr. Pawan Kumar Singh](https://scholar.google.co.in/citations?user=LctgJHoAAAAJ&hl=en)
+
+### Cite our paper: Aich, U., Saha, A., Woźniak, M., Ijaz, M. F., & Singh, P. K. (2025). Schizophrenia detection from electroencephalogram signals using image encoding and wrapper-based deep feature selection approach. Scientific Reports, 15(1), 21390. [https://doi.org/10.1038/s41598-025-06121-7](https://doi.org/10.1038/s41598-025-06121-7)
