@@ -60,7 +60,7 @@ Description: Performs feature selection using the ASBO (Adaptive Swarm-Based Opt
 
 The proposed framework outperformed state-of-the-art methods on both datasets.
 
-### Collaborator: [Arghyasree Saha](https://github.com/arghyasree-saha)
+### Collaborator: [Arghyasree Saha](https://scholar.google.com/citations?user=kJsemWIAAAAJ&hl=en)
 
 ### Supervisor: [Dr. Pawan Kumar Singh](https://scholar.google.co.in/citations?user=LctgJHoAAAAJ&hl=en)
 
